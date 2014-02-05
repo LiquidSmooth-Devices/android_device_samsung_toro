@@ -13,7 +13,9 @@ ro.config.svlte1x=true
 # RIL Sends Only One RIL_UNSOL_CALL_RING
 ro.telephony.call_ring.multiple=0
 
-# Turn On IMS By Default
+ro.telephony.toroRIL=1
+
+# Turn on IMS by default
 persist.radio.imsregrequired=1
 persist.radio.imsallowmtsms=1
 
