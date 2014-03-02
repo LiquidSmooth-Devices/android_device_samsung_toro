@@ -1,8 +1,9 @@
-windowsmgr.max_events_per_sec=275
 #
 # system.prop for toro
 #
-## cannot take spaces
+
+windowsmgr.max_events_per_sec=275
+
 rild.libargs=-d /dev/ttys0
 
 # Fields For Custom RIL
