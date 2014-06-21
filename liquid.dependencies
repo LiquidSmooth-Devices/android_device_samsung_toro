@@ -17,10 +17,10 @@
    "target_path": "vendor/samsung",
    "revision": "cm-11.0"
   }
-  {
+  {,
    "remote": "ls",
    "repository": "android_hardware_ti_omap4xxx",
-   "target_path": hardware/ti/omap4xxx,
+   "target_path": "hardware/ti/omap4xxx",
    "revision": "kitkat"
   }
 ]
