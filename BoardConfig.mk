@@ -15,9 +15,6 @@
 # limitations under the License.
 #
 
-TARGET_BOARD_INFO_FILE := device/samsung/toro/board-info.txt
-BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/toro/bluetooth
-
 # Use the non-open-source part, if present
 -include vendor/samsung/toro/BoardConfigVendor.mk
 
